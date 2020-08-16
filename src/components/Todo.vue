@@ -27,7 +27,6 @@
   </div>
 </template>
 
-
 <script>
 import Lists from "./Lists";
 import Tasks from "./Tasks";
