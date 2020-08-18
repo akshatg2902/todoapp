@@ -14,7 +14,6 @@ import Signup from "./components/Auth/Signup";
 import Todo from "./components/Todo";
 import Tasks from "./components/Tasks";
 import NotesModal from "./components/NotesModal";
-import vuetify from './plugins/vuetify';
 
 Vue.config.productionTip = false;
 
@@ -127,6 +126,5 @@ const router = new VueRouter({
 new Vue({
   router,
   store,
-  vuetify,
   render: h => h(App)
 }).$mount("#app");
