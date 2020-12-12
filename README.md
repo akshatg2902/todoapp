@@ -11,20 +11,3 @@ cd project_dir
 npm install
 npm run serve # run the dev server
 ```
-
-## Screenshots
-
-### Login page
-![Login page](./login.png)
-
-### Sign-up page 
-![Signup page](./singup.png)
-
-### Lists (First page you see after login in)
-![Lists page](./lists.png)
-
-### Tasks (after selecting a list)
-![Tasks page](./tasks.png)
-
-### Notes (after clicking the edit icon on a task)
-![Notes page (modal)](./notes.png)
